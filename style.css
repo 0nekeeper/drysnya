@@ -1,0 +1,42 @@
+html {
+  font-size: 10px;
+  font-family: placeholder:
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: orange;
+}
+
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: rgb(226, 19, 12);
+}
+html {
+  background-color: #141414;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #252422;
+  padding: 0 100px 20px 100px;
+  border: 8px solid rgb(247, 7, 7);
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #e25c0e;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+p {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: rgb(214, 86, 12);
+}
